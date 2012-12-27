@@ -1,0 +1,14 @@
+/config/secrets.yml
+/.bundle
+/.rvmrc
+
+/db/**
+!/db/.gitkeep
+/log/**
+!/log/.gitkeep
+/tmp/**
+!/tmp/.gitkeep
+
+/.idea
+/*.iml
+
